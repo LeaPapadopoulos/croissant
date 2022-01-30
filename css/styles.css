@@ -5,11 +5,17 @@ h1,
 p {
   text-align: center;
 }
+
 footer {
-    text-align:center;
+  text-align: center;
+}
+.croissant-photo {
+  display: block;
+  max-width: 100%;
+  max-height: 100%;
 }
 
 footer a {
-    margin: 0 10px;
-    color:rgb(238, 171, 144);
+  margin: 0 10px;
+  color: rgb(238, 171, 144);
 }
